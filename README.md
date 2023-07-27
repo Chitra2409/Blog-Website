@@ -16,7 +16,7 @@ This is a simple blogging website called "Daily Journal" where users can create,
 
 ## How to Use
 
-1. Clone the repository from GitHub:https://github.com/Chitra2409/Blog-Website.git
+1. Clone the repository from GitHub: https://github.com/Chitra2409/Blog-Website.git
 2. Install the required packages by running `npm install`.
 3. Run the application using `node app.js` or `npm start`.
 4. Access the website by visiting `http://localhost:3000` in your web browser.
