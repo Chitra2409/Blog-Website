@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel = "stylesheet" href="css/styles.css">
+</head>
+<body>
+    <%- include("partials/header.ejs")%>
+    <h1>Compose</h1>
+    <form action="/compose" method="post" >
+        <label for="title">Title</label><br>
+        <!-- <input type="text" id ="title" name="title"><br> -->
+        <textarea name="title" cols="175"></textarea><br>
+        <label for="post">Post</label><br>
+        <!-- <input type="text" id ="post" name="post"><br><br> -->
+        <textarea name="post" cols="175" rows="5"></textarea><br><br>
+        <button type="submit" value="Publish">Publish</button>
+        <%- include("partials/footer.ejs")%>
+    </form>
+</body>
+</html>
