@@ -4,7 +4,7 @@
 
 ![Daily Journal](https://your-image-url.com)
 
-This is a simple blogging website called "Daily Journal" where users can create, read, and publish their blog posts. The website is built using Node.js with the Express framework and EJS templates for the frontend. It allows users to compose new blog posts and view existing posts. The project is based on the starting files from the Udemy 2023 Web Development Bootcamp.
+This is a simple blogging website called "Daily Journal" where users can create, read, and publish their blog posts. The website is built using Node.js with the Express framework and EJS templates for the frontend. It allows users to compose new blog posts and view existing posts. The project is based on the starting files from the Udemy,The Complete 2023 Web Development Bootcamp by Angela Yu.
 
 ## Features
 
@@ -47,14 +47,7 @@ Contributions to this project are welcome! If you find any bugs or have ideas fo
 
 ## Acknowledgments
 
-This project is based on the starting files from the Udemy 2023 Web Development Bootcamp. Special thanks to the instructors for providing the initial resources.
+This project is based on the starting files from the Udemy "The Complete 2023 Web Development Bootcamp by Angela Yu". Special thanks to the instructors for providing the initial resources and guidance.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or questions, please contact me at your-email@example.com.
 
 Happy blogging!
