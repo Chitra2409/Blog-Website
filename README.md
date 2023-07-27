@@ -2,8 +2,6 @@
 
 # Daily Journal - A Simple Blogging Website
 
-![Daily Journal](https://your-image-url.com)
-
 This is a simple blogging website called "Daily Journal" where users can create, read, and publish their blog posts. The website is built using Node.js with the Express framework and EJS templates for the frontend. It allows users to compose new blog posts and view existing posts. The project is based on the starting files from the Udemy,The Complete 2023 Web Development Bootcamp by Angela Yu.
 
 ## Features
@@ -18,7 +16,7 @@ This is a simple blogging website called "Daily Journal" where users can create,
 
 ## How to Use
 
-1. Clone the repository from GitHub: [Repository Link](https://github.com/your-username/your-repo-name)
+1. Clone the repository from GitHub: [Repository Link]([https://github.com/your-username/your-repo-name](https://github.com/Chitra2409/Blog-Website.git))
 2. Install the required packages by running `npm install`.
 3. Run the application using `node app.js` or `npm start`.
 4. Access the website by visiting `http://localhost:3000` in your web browser.
